@@ -10,11 +10,7 @@ Project uses Apache Spark functionalities (SparkSQL, Spark Streaming, MLib) to b
 We utilize historical and streaming data from different social media networks through network provided APIs.
 * Twitter - https://apps.twitter.com/
 * MeetUp  - https://secure.meetup.com/meetup_api
-* GitHub
->    * Guides :    https://developer.github.com/v3/,
->    * API Calls:  https://api.github.com/,
->    * API Keys :  https://github.com/settings/developers
->    * Tokens :    https://github.com/settings/tokens
+* GitHub - [Guides :    https://developer.github.com/v3/, API Calls:  https://api.github.com/, API Keys :  https://github.com/settings/developers, Tokens :    https://github.com/settings/tokens
 
 
 
@@ -27,13 +23,11 @@ We utilize historical and streaming data from different social media networks th
 
 
 ### Required Libraries
-> pip install Twitter
-> pip install PyGithub
+> pip install Twitter <br>
+> pip install PyGithub <br>
 > pip install
 
 
-### APIs
-T
 
 ### Associated Project - R3levancy!
 > Discovering what everyone is whispering about on social media. Fantastic tool to discover what's really trending across social media and hot topics discovery.
