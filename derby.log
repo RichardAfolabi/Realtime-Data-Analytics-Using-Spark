@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Thu May 12 14:51:11 PDT 2016:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0154-a6f3-ba6d-00002d831898 
-on database directory /Users/RichardAfolabi/myGitHub/Realtime_Data_Analytics_Spark/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@1bfe9b3 
+Fri May 13 18:14:25 PDT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0154-acd4-28e8-00002d4b62e8 
+on database directory /Users/RichardAfolabi/myGitHub/Realtime_Data_Analytics_Spark/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@2d62f6b 
 Loaded from file:/Users/RichardAfolabi/spark/lib/spark-assembly-1.6.0-hadoop2.6.0.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_73-b02
