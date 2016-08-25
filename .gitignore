@@ -1,3 +1,24 @@
+RELEASE
+LICENSE
+NOTICE
+CHANGES.txt
+*.DS_Store
+*.ipynb_checkpoints
+
+
+R/
+ec2/
+bin/
+conf/
+data/
+lib/
+licenses/
+python/
+sbin/
+sbin/
+examples/
+
+*.pem
 *.DS_Store
 *.ipynb_checkpoints
 
@@ -15,6 +36,4 @@ Thumbs.db
 ehthumbs.db
 
 # Specific files and folders
-StackOverflow/
-workforce_analytics
-nyc311calls.csv.gz
+
